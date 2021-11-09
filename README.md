@@ -1,6 +1,6 @@
 # Trips
 
-Thesis on the development of an application that can be run on Android smartphones through the use of a localization framework and analysis of the performance and consumption of the application. </br>
+Thesis on the analysis and use of localization framework in Kotlin for Android.</br>
 The development is based on Kotlin language, "android.location" library and OpenStreetMap project. For analisys was used the Android Studio profiler.
 
 ## Functionalities
